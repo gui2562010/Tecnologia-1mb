@@ -37,6 +37,39 @@ img{
     max-width: 500px;
     display: block;
     margin: 20px auto;
+
+}
+h2{
+    color: #00ffcc;
+    text-align: center;
+    text-shadow: 0px 0px 10px #00ffcc;
+
+
+
+}
+
+ol{
+
+    list-style: square;
+
+
+}
+
+li{
+
+color: #00ffcc;
+
+
+
+}
+
+h3{
+
+    color: #00ffcc;
+    text-align: center;
+    text-shadow: 0px 0px 10px #00ffcc;
+
+
 }
 
 
